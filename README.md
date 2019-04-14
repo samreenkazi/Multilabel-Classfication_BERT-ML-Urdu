@@ -1,5 +1,6 @@
-This repository demonstrates multiclass text classification on urdu dataset using BERT (Mighty Transformer)
+This repository compares result of  multiclass urdu text classification on authors dataset using BERT and traditional ML+NLP tecniques 
 
-
-# Author_Disambiguition
+# Author_Disambiguition using BERT
 #execute run_author_classification.sh script
+# Author_Disambigution using Traditional ML+NLP techniques
+#execute Explore_Dataset_Author_urdu.ipynb
